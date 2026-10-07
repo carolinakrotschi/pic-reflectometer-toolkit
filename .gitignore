@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv*/
+venv/
+
+# Generated data and results
+*.npz
+*_reflectogram.csv
+*_reflectogram.png
+*_auxcheck.png
+validation_results/
+
+# Editors and OS files
+.vscode/
+.DS_Store
