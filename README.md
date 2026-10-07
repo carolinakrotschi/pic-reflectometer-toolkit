@@ -4,7 +4,6 @@ Signal processing for **optical frequency-domain reflectometry (OFDR)** in Pytho
 detector signals of a swept-laser interferometer into a reflectogram that shows every reflection
 along a fiber or photonic integrated circuit with micrometer resolution.
 
-![Reflectogram of a simulated sweep with four reflectors](docs/example_reflectogram.png)
 
 ## The idea
 
